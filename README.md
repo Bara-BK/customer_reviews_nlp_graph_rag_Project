@@ -3,6 +3,8 @@
 **NLP + graphes + GNN/GTN + Graph-RAG sur Amazon Fine Food Reviews**
 Projet S4 — *Advanced Learning for Text and Graph Data* (Unit: IL) — ESPRIT, 5ERP-BI, 2025-2026
 
+🔗 **Live demo:** https://customerreviewsnlpgraphragproject-dugekmtvyjzmf6na3dziky.streamlit.app/
+
 > Encadrant : Hajer GHODHBANI
 
 ## Objectif
