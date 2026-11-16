@@ -1,0 +1,31 @@
+# --- Données brutes (jamais sur GitHub : dataset Kaggle ~300 Mo) ---
+Reviews.csv
+archive.zip
+*.sqlite
+hashes.txt
+data/
+
+# --- Gros fichiers générés par le notebook (> 100 Mo : refusés par GitHub) ---
+review_embeddings.npy
+*.npy
+distilbert_sentiment/
+*.safetensors
+*.bin
+*.pt
+*.pth
+projet_outputs.zip
+streamlit_app.zip
+
+# --- Python / Jupyter ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# --- Streamlit / système ---
+.streamlit/secrets.toml
+streamlit.log
+.DS_Store
+Thumbs.db

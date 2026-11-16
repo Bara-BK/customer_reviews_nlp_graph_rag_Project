@@ -1,0 +1,13 @@
+# Pour exécuter le notebook en local (sur Colab, seules les 2 dernières lignes sont à installer)
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+networkx
+torch
+transformers
+sentence-transformers
+torch_geometric
+streamlit>=1.50
+joblib

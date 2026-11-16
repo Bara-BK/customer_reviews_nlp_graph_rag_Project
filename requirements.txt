@@ -1,0 +1,7 @@
+# Dépendances minimales de l'application Streamlit (déploiement cloud)
+streamlit>=1.50
+pandas
+numpy
+scipy
+scikit-learn
+joblib

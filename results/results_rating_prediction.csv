@@ -1,0 +1,6 @@
+,RMSE,MAE,acc_arrondie,F1_sentiment_graphe
+Moyenne globale,1.17,0.934,0.214,
+Biais (μ + b_u + b_p),1.078,0.83,0.37,0.37
+GraphSAGE,1.102,0.846,0.375,0.367
+GAT,1.101,0.843,0.381,0.356
+GTN (TransformerConv),1.074,0.823,0.385,0.385

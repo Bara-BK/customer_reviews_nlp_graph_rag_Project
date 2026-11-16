@@ -1,0 +1,11 @@
+requête,produits_renvoyés,pureté_RAG,pureté_baseline
+best coffee,10,1.0,0.0
+green tea,10,1.0,0.0
+dark chocolate,10,1.0,0.0
+dog treats,10,1.0,0.0
+cat food,10,1.0,0.0
+peanut butter,10,0.9,0.0
+gluten free,10,1.0,0.3
+baby food,10,1.0,0.0
+hot sauce,10,1.0,0.0
+olive oil,10,1.0,0.2
